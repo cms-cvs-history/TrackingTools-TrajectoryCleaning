@@ -1,3 +1,0 @@
-es_module trajectoryCleanerBySharedHits = TrajectoryCleanerESProducer {
-	string ComponentName = "TrajectoryCleanerBySharedHits"
-}
