@@ -1,3 +1,0 @@
-es_module trajectoryCleanerMerger = TrajectoryCleanerESProducer {
-	string ComponentName = "TrajectoryCleanerMerger"
-}
